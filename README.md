@@ -21,7 +21,7 @@ Play quick time-based minigames with other users on same network. Uses Multipeer
 <img src = "/images/p1-search.png" width = "200" /><img src = "/images/p2-search.png" width = "200" />
 
 
-Calculate
+### Calculate
 * Displays your time and the opponents taunt
 * Exchange time to finish game with other device. Faster time transitions to win screen, slower segues to defeat screen.
 
